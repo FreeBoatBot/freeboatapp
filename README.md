@@ -8,7 +8,8 @@ Wrapper Free Music Boat:
 
 `
 Now Playing:
-`[`🎵Radio`](http://ilovemusic.eu)          
-`API Used:`[`ILoveMusic`](http://ilovemusic.eu)
+`[`🎵Miral Adventure - Nya`](http://YouTube.com)          
+`API Used:`[`YouTube`](http://YouTube.com)     
+`Successfully Skipped!`
 
-`API Work Invite A Bot: `[`RadioBot In ILoveMusic`](http://github.com/iloveradiobot)
+`API Work Invite A Bot: `[`RadioBot In ILoveMusic and YouTube`](http://github.com/iloveradiobot)
