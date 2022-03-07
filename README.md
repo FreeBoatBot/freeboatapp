@@ -7,9 +7,15 @@ Now Playing:
 Wrapper Free Music Boat:
 
 `
-Now Playing:
+PAUSED:
 `[`🎵Miral Adventure - Nya`](http://YouTube.com)          
 `API Used:`[`YouTube`](http://YouTube.com)     
-`Successfully Skipped!`
+`Successfully Looped with error:`    
+```js 
+at loopTrack.js:45:63
+// not found Loop.Actioned
+// details stopped
+$
+```
 
 `API Work Invite A Bot: `[`RadioBot In ILoveMusic and YouTube`](http://github.com/iloveradiobot)
