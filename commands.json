@@ -1,0 +1,19 @@
+{
+"allcmd": {
+"help":"Read Wiki in FreeBoatBot/freeboatapp/wiki to show!",
+"play":"${json.join}${play.request}",
+"search": {
+"codeblock":"Please Enter to Add it",
+"await":"12345"
+"codeblock:data":"1.${json.get.video1}\n2.${json.get.video2}\n3.${json.get.video3}\n4. Next | 5. Prev"
+},
+"skip":"Skipped the song!${skip.song}",
+"setup": {
+"style":"#style/Monospace"
+},
+"setupMD": {
+"Style_Request_Banners":"codeblock",
+"Execute":"play ${query}"
+}
+}
+}
